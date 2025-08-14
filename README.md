@@ -9,9 +9,9 @@
 A minimal implementation of the classic shortest‑path chess problem using BFS
 (Breadth-first search), built for The Odin Project to practice graph algorithms.
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Algorithm](https://img.shields.io/badge/Algorithm-BFS-1f6feb)](https://en.wikipedia.org/wiki/Breadth-first_search)
-[![Status](https://img.shields.io/badge/Status-Learning%20Project-00b894)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-F7DF1E?logo=javascript&logoColor=000)
+![Algorithm: BFS](https://img.shields.io/badge/Algorithm-BFS-1f6feb)
+![Status: Learning Project](https://img.shields.io/badge/Status-Learning%20Project-00b894)
 
 </div>
 
